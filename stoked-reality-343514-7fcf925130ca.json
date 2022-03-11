@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stoked-reality-343514",
+  "private_key_id": "7fcf925130cadbb4188de289ca9819e0e34375dc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4aoEFyEoESC/3\nzET09MZExlDx0eubsgDiv7Ci21Uj5fh9poETTh8CWUmD7cs1KBFp1nnf2iYeNFyQ\nvblQHwifLLu92R5QLRH4WOc8H0eBjVzErjQUmj9Yz2qNITP+cioxwwaAcXyNDCTQ\nr0aQCsrw8bI3YFytfoc+5Emb8ger1pCLesGT0MOj8vJa2gXihSXybziYOcEMVNsR\nEqD0SVr+w7a/6pR6C0F6WV9XsNtO58l18TqQwNZDvZHKdg3eHWpDrwA1dLNzJ/Y1\n+4uUiznkXzRrC0Arz2prK59Xq6QPhyuNdKvDBPCbyQFb3QNa34U5qZPqUvMislGH\n5Sf1qUaTAgMBAAECggEAC3xPbdgQ5N36f6EgXrs+yZP3NAbPEqlBWd32qj+L0j3Y\nvjnYPY1DhcA6DmmJTiKHnYMtbJsBfcCxtS53ALD2HTSXITAira6o7FupIMfEvdWO\nkUDvEgtrTGSarioch8l933Yi822RN5dDVOxdsjHur5cpPz6uqi8m5p/BBkfkLdHT\nmFdUsBvFD5dZ3OEXfnFo42wjuQEoryIWuFHliUrAM7VisedJwmwBodu3hIO4xxck\nGkoEOuBpcs0FSp/dpZ9fWgPWrSR/ujsjEBz6O67kmCL41XRj06rekJ/fZqqa8Xu5\nCXcZxIKxVlGzx6ajyiLvreD2NEwWqmTjYmV/UxU4VQKBgQDpU7Nl1EirNMr02+ml\nRqxe+RYFLLnHHCAFr1M/8MabmdHJ0+LZ3z9mBM1KZDDNLnwfCFNmufs8ZJnjevgE\nau6aPlWEIlQcQgv4NDwsLKRiGYUpqlbwv6ywEJ28fvu8ejGB8+/Lqumy/e+86ABj\nfuCOgFmdNX1KiOa8kWkH+9evTwKBgQDKVhU6esTqe4LXbghk5yDNPnAaXgECPie8\nBiU+Wx4NfpkNb6pzB3cgdvyVFYQ5+p5hdx+d7rPrRHuM915b/r5vMjaJx62NqBu3\ndRdqJu+P8iqEwIPCukVsCw/WlRnMeHxr6pS47oa2gbRINl7zsOZu8uxl/cCLH7ps\nX0Bz6FlDfQKBgAtQfcCQXL3An57kEx5qoO0yEvlJQ/D90ie0assM9/SPrvakibma\n884UqYfT9/HbMTWoB7NRjXdOQZAgZGqCbPOZ1jfEGmQMZ9wvXEOgHpCLQEPW+MRP\n5yXaiGudlMN9AW2V0KkFrrN5UOjOL0aj3mvKmY3gDCVTIi0+t+MlOT5NAoGBALUS\n2KifGf6mTe+xXv2+AhLrn7NZERoKudCAx2/IZ1q4QwxNNIMA2VFKaryYpt6kNH0Q\n+FCEQKt5fAApmF5H2fD1RO2ErwKowTUrKqsq8RUnKXnoN4Ja5KnONHxart3XrbF+\nG15syE4oQUimr87yLyZ3a6vSrS9UU6eMjser1caZAoGBAOHqWAPgy+Oem4MCt10v\n5TLyHn6cMHrMt6H6ZSSfkkJ2rBJcanEJMHpNjzY3F5ALdyUc3uYS0A0Kw83L2Ea4\nUAil4MbMNYQILe5BOj7AggX2Cvbu4z2KqObHXc3mP+vc3+4EWtxvriR+7MzrK2ws\nTwwyHE3Jizw4bapInfNCsryi\n-----END PRIVATE KEY-----\n",
+  "client_email": "dice-779@stoked-reality-343514.iam.gserviceaccount.com",
+  "client_id": "103219992069800075160",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dice-779%40stoked-reality-343514.iam.gserviceaccount.com"
+}

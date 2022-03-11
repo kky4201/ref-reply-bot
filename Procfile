@@ -1,1 +1,1 @@
-worker: python dice.py
+web: gunicorn gettingstarted.wsgi
